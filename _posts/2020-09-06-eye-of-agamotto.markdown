@@ -1,6 +1,7 @@
 ---
 title:  "Eye of Agamotto"
 layout: single
+classes: wide
 header:
   image: /assets/eye-of-agamotto-cover.jpg
   caption: "Eye of Agamotto"
