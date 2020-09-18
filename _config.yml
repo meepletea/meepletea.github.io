@@ -33,6 +33,38 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+collections:
+  props:
+    output: true
+    permalink: /:collection/:path/
+  miniatures:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _props
+  - scope:
+      path: ""
+      type: props
+    values:
+      layout: single
+      classes: wide
+  # _miniatures
+  - scope:
+      path: ""
+      type: miniatures
+    values:
+      layout: single
+      classes: wide
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

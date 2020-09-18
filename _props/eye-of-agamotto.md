@@ -1,30 +1,29 @@
 ---
 title:  "Eye of Agamotto"
-layout: single
-classes: wide
 header:
-  image: /assets/eye-of-agamotto-cover.jpg
-  caption: "Eye of Agamotto"
+  image: /assets/images/eye-of-agamotto-header.jpg
+  teaser: /assets/images/eye-of-agamotto-teaser.jpg
 categories: props
 tags: 
   - props
   - 3d-printed
   - cosplay
+excerpt: 3D Printed in Summer 2018
 gallery:
-  - url: /assets/eye-of-agamotto-printing-1.jpg
-    image_path: /assets/eye-of-agamotto-printing-1.jpg
+  - url: /assets/images/eye-of-agamotto-printing-1.jpg
+    image_path: /assets/images/eye-of-agamotto-printing-1.jpg
     alt: Printing the main locket body on TAZ6
     title: Printing the main locket body on TAZ6
-  - url: /assets/eye-of-agamotto-printed.jpg
-    image_path: /assets/eye-of-agamotto-printed.jpg
+  - url: /assets/images/eye-of-agamotto-printed.jpg
+    image_path: /assets/images/eye-of-agamotto-printed.jpg
     alt: All of the printed parts prior to painting
     title: All of the printed parts prior to painting
-  - url: /assets/eye-of-agamotto-painted-1.jpg
-    image_path: /assets/eye-of-agamotto-painted-1.jpg
+  - url: /assets/images/eye-of-agamotto-painted-1.jpg
+    image_path: /assets/images/eye-of-agamotto-painted-1.jpg
     alt: Assembled and fully painted with eyelid open
     title: Assembled and fully painted with eyelid open
-  - url: /assets/eye-of-agamotto-painted-2.jpg
-    image_path: /assets/eye-of-agamotto-painted-2.jpg
+  - url: /assets/images/eye-of-agamotto-painted-2.jpg
+    image_path: /assets/images/eye-of-agamotto-painted-2.jpg
     alt: Assembled and fully painted with eyelid closed
     title: Assembled and fully painted with eyelid closed
 ---
