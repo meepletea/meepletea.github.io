@@ -1,8 +1,8 @@
 ---
 layout: splash
 feature_row:
-  - image_path: /assets/images/props-teaser.jpg
-    url: /props/
+  - image_path: /assets/images/costuming-teaser.jpg
+    url: /costuming/
     btn_label: "Costuming"
   - image_path: /assets/images/miniatures-teaser.jpg
     url: /miniatures/

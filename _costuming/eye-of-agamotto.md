@@ -3,7 +3,7 @@ title:  "Eye of Agamotto"
 header:
   image: /assets/images/eye-of-agamotto/header.jpg
   teaser: /assets/images/eye-of-agamotto/teaser.jpg
-categories: props
+categories: costuming
 tags:
   - props
   - 3d-printed

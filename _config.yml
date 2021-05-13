@@ -34,7 +34,7 @@ plugins:
   - jekyll-include-cache
 
 collections:
-  props:
+  costuming:
     output: true
     permalink: /:collection/:path/
   miniatures:
@@ -50,10 +50,10 @@ defaults:
       layout: single
       author_profile: true
       related: true
-  # _props
+  # _costuming
   - scope:
       path: ""
-      type: props
+      type: costuming
     values:
       layout: single
       classes: wide

@@ -1,8 +1,8 @@
 ---
 layout: collection
-collection: props
-title: "Props"
-permalink: /props/
+collection: costuming
+title: "Costuming"
+permalink: /costuming/
 entries_layout: grid
 sort_by: title
 ---
