@@ -11,13 +11,13 @@ tags:
 excerpt: 3D Printed in Summer 2018
 ---
 
-This was a project done during the summer of 2018 during heavy con crunch.
+This project was completed during the summer of 2018 during heavy con crunch.
 Prior to DragonCon, my motivation was waning because of all the incomplete
 projects still in the works, so I wanted something relatively simple and quick
 just to get a sense of accomplishment.
 
-This was prior to my owning my own 3D printer, so it was done at the print lab
-at work. The print was split between a Lulzbot TAZ6 and MINI2 and all in PLA in
+This was prior to my owning my own 3D printer, so it was done in the print lab
+at my office. The print was split between a Lulzbot TAZ6 and MINI2 and all in PLA in
 whatever colors were available. I find that by the time I'm done putting on a
 few layers of filler primer, the original color it was printed in has very
 little effect. That said, these days I do tend to print costume parts in neutral
