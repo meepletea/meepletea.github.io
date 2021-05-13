@@ -1,12 +1,18 @@
 ---
 layout: splash
 feature_row:
-  - image_path: /assets/images/costuming-teaser.jpg
+  - title: Costuming
+    excerpt: EVA Foam, Worbla, & PLA
+    image_path: /assets/images/costuming-teaser.jpg
     url: /costuming/
-    btn_label: "Costuming"
-  - image_path: /assets/images/miniatures-teaser.jpg
+    btn_label: "See more..."
+    btn_class: "btn--primary"
+  - title: Miniatures
+    excerpt: Pewter, Plastic, & Resin
+    image_path: /assets/images/miniatures-teaser.jpg
     url: /miniatures/
-    btn_label: "Gaming"
+    btn_label: "See more..."
+    btn_class: "btn--primary"
 
 ---
 
