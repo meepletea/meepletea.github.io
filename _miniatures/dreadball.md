@@ -9,12 +9,7 @@ tags:
   - dreadball
   - miniatures
 excerpt: Futuristic Sports Board Game
-gallery:
-  - url: /assets/images/dreadball-waterslide.jpg
-    image_path: /assets/images/dreadball-waterslide.jpg
-    alt: Waterslide decals on Corporate Team
-    title: Waterslide decals on Corporate Team
 
 ---
 
-{% include gallery %}
+{% include image-gallery.html folder="/assets/images/dreadball" %}
