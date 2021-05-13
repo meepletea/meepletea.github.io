@@ -10,6 +10,6 @@ feature_row:
 
 ---
 
-Collections:
+# Collections
 
 {% include feature_row %}

@@ -4,11 +4,11 @@ header:
   image: /assets/images/dreadball-header.jpg
   teaser: /assets/images/dreadball-teaser.jpg
 categories: miniatures
-tags: 
+tags:
   - 28mm
   - dreadball
   - miniatures
-excerpt: 3D Printed in Summer 2018
+excerpt: Futuristic Sports Board Game
 gallery:
   - url: /assets/images/dreadball-waterslide.jpg
     image_path: /assets/images/dreadball-waterslide.jpg
