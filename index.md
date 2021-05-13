@@ -10,6 +10,8 @@ feature_row:
 
 ---
 
-# Collections
+# &nbsp;
+
+## Collections
 
 {% include feature_row %}
